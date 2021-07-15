@@ -15,5 +15,5 @@ Once you have completed the above you can follow through with the below steps.
 4) cd `bin`
 5) run `npm install`
 6) run `react-native run-android`
-7) 
+
 It's working!
