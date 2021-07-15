@@ -1,6 +1,6 @@
 [submodule "react-next"]
-	path = ./.haxelib/react-next/git
+	path = .haxelib/react-next/git
 	url = https://github.com/kLabz/haxe-react.git
 [submodule "react-native"]
-	path = ./.haxelib/react-native/git
+	path = .haxelib/react-native/git
 	url = https://github.com/haxe-react/react-native.git
