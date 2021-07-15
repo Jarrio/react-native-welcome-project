@@ -1,0 +1,25 @@
+{
+	"name": "tink_hxx",
+	"classPath": "src",
+	"dependencies": {
+		"tink_anon": "",
+		"tink_parse": "",
+		"html-entities": ""
+	},
+	"url": "https://github.com/haxetink/tink_hxx/",
+	"contributors": [
+		"back2dos"
+	],
+	"version": "0.25.0",
+	"releasenote": "Improve diagnostics. Speed up compilation.",
+	"tags": [
+		"tink",
+		"hxx",
+		"jsx",
+		"vdom",
+		"dom",
+		"template",
+		"cross"
+	],
+	"license": "MIT"
+}
