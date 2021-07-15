@@ -1,0 +1,3 @@
+[submodule ".\\.haxelib\\react-next\\git"]
+	path = .\\.haxelib\\react-next\\git
+	url = https://github.com/kLabz/haxe-react.git
